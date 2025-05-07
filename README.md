@@ -2,7 +2,7 @@
 ## Clone
 
 ```
-   git clone https://github.com/0x66eth/RefundBookingSystem.git
+   https://github.com/openshwin/RefundBookingSystem.git
 ```
 
 ## Install dependencies
